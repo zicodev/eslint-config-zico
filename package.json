@@ -1,0 +1,20 @@
+{
+  "name": "@zicodev/eslint-config-zico",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": {
+    "email": "alex@zico.dev",
+    "name": "Alex Zissis"
+  },
+  "peerDependencies": {
+    "eslint": "^8.7.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.9.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
