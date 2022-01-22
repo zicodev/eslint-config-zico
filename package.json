@@ -1,6 +1,6 @@
 {
   "name": "@zicodev/eslint-config-zico",
-  "version": "0.0.2",
+  "version": "0.0.2-b",
   "main": "index.js",
   "author": {
     "email": "alex@zico.dev",
